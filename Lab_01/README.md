@@ -1,5 +1,5 @@
 
-C Programming Basics
+**C Programming Basics**
 
 Welcome to this repository! This folder contains a collection of fundamental C programming concepts and foundational exercises, 
 ranging from basic arithmetic operations to geometric calculations and temperature conversions. It is designed as a starter kit 
